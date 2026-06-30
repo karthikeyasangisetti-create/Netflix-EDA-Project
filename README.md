@@ -111,7 +111,7 @@ Netflix-EDA-Project
 
 ## Author
 
-**Karthik**
+**Karthikeya Sangisetti**
 
 AI & Machine Learning Internship
 
